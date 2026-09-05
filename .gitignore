@@ -19,3 +19,6 @@ Thumbs.db
 # Environment variables
 .env
 data/raw/*
+data/processed/transactions_clean.csv
+data/processed/cross_sell_opportunities.csv
+data/processed/product_associations.csv
